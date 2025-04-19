@@ -1,0 +1,50 @@
+{
+ "name": "Code Invocation",
+ "short_name": "Code Invocation",
+ "description": "Blog tutorials about integration system using jPOS, Spring Integration, Netty and another technology",
+ "lang": "en",
+ "dir": "ltr",
+ "theme_color": "#272727",
+ "start_url": "https://www.codeinvocation.com/",
+ "background_color": "#f4f4f4",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "DidikHari",
+ "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV8O0Y5A81p-d_VtQqnpPEt3fdNQdDxrF8Vt1Sb9XrowCaW1-roFg9-FCMh_zeiakUkKkeTGFLQdfP3tVUYFSN3M_rirE-0GxRFOuJV6UA7XXjzHEMRhJARePdsc7KWpxJ6DdrEwP7eQKRrXtFhbceOEMEIPX7IerXA37mltVe-fres9NzucoOZ4JJ5axd/s1600/40.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Ya93wdPlAf1CFjgd3X44eboBrpbDgxJXbsyFcUNeoDfVtq2rjY-axumDcGHpFvwDTn-8RADBl62L3J7nEuUl3QsplYZ185GsxWpo7NB2pi25rmfIuj3klImdDTjEuoqd15whxCSRFASsr9s-f9jWKFGZTcHVGohXA5Nr5rcnxTA_o3BbmlsSSalqz2QA/s1600/48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQUnZBcun3dpqtKSId-h1izU4MtlB9y0UuFjbVKcCgnciASgfZZW2b_DloFfNFX2S8BSCOmo7NhnpYRY7ViqJfENTIHk37UMPXFX2SNjjZUppYmUnQnhBoSnvy6RvWdf4mjCh0PTIe_VHaDyYNJfkhpOZgwJGqVj5XYN7Ed8Vtx9fmfh0I-jnzgMVKgeBJ/s1600/72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPmUHS-XLZ7h2kx0TOeEW6V-YgHto0_ZJ8AGXkOJ_CeGfPnEnxSjRcj024KKi04WCHzCTnuNAQoCHMcU779HoajydsCtKz-L1tsxHZFrjiwIzWrrY5rMEYY6neM8rAc8te0RWufva2anBmpHAJBP2Nz3QAIV99eMYoYOTFyklp6gyhGBPwOmnAg6PAaHBj/s1600/96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzyKZpc_gzz1ELqqP0dDycI4pOK_hy3qAsq_huleIKP1aJ7UW1jX_GMz3hG1ZJ0ISwhMI7FRzpSlDCAvaf5_fjZUtziQ3FBMgRuCISO771FkbA4urecj5MI6eiaFFjzucy4p4u-DJJ1PdUZS-6N4Xq_QSyAkTXP4o4C9CO4wvDnZL8Vh1dUYeAwVTCrKNA/s1600/144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS1MLykM1xL6rjm5owyLkjq0mr2wMKkUV-vyoYg_H1bEsIc-yhgD0bbT5GvVy81ck-KHjSYvO6fqjlLU0Skntab1dhyphenhyphenF913qI1hiwWfhGLQDR0ww3T4rXKILr-wa3RIcln3I0Jrti_MEh7pXIoLgdaaJcmL9xceddkHCSIwYbNrM2bFU2f9JVGAFlx8SqY/s1600/192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh057Za0Afzx9HvWtFIJTUYNb7GjdJzyyrzm6Cv6nl3cyrpKzeIJNRe_4KuXVdEmYqZ-XHh4o5NOegXBMawZyah1mOg_qhpgPJluspqB5bKzXQVJtUMOLS8Op64Z_99v98sDS3jBUJsuq3wuph5jW3awQMP1t1ngCKfU7VK74BaPcS1tN00hCfW5z6553RE/s1600/512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
